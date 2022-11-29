@@ -1,0 +1,52 @@
+body {
+    font-family: 'Bebas Neue', cursive;
+}
+
+
+
+.backgroundsearch {
+    background-color:grey;
+    border-radius: .3em;
+}
+
+.Pecco {
+   background-image: url("../img/motogp.jpeg") !important;
+   background-size: cover;
+ 
+
+}
+footer {
+    font-family: 'Satisfy', cursive;
+}
+.leftCards {
+
+margin-top: 10%;
+}
+@media only screen and (max-width: 768px) {
+    
+     #Peccodiv {
+    height:40vh;
+    margin-top:0 !important;
+    }
+   .leftCards {
+    margin-top:3%;
+   }
+   
+  }
+
+  @media only screen and (max-width: 576px) {
+    
+    #Peccodiv {
+   height:300px;
+   margin-top:3% !important;
+   margin-left:3.3%;
+   width:86vw;
+   border-radius:.2em;
+   }
+  .leftCards {
+   margin-top:3%;
+  }
+  
+ }
+
+
