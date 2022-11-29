@@ -1,2 +1,0 @@
-# Therealjebbryson.github.io
-Therealjebbryson
